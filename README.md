@@ -6,6 +6,7 @@ lower command create a string of lowercase.
 
 Run very simple command. : `lower`
 
-```
-$ lower HOGE_Fuga_
+```bash
+$ lower "My name is SHOMA2DA."
+my name is shoma2da.
 ```
